@@ -1,0 +1,84 @@
+{
+    "menu" : [
+        {
+            "jenis": "makanan",
+            "nama": "Nasi Goreng Kampung",
+            "deskripsi": "Nasi Goreng dengan bumbu rahasia kampung yang disajikan dengan telur",
+            "harga": "24000",
+            "estimasi": "",
+            "gambar":"nasi goreng.jpg"
+        },
+        {
+            "jenis": "makanan",
+            "nama": "Sotong Goreng",
+            "deskripsi": "8 potong sotong yang digoreng",
+            "harga": "20000",
+            "estimasi": "",
+            "gambar": "assets/sotong_goreng.jpg"
+        },
+        {
+            "jenis": "makanan",
+            "nama": "Nasi Ayam Geprek",
+            "deskripsi": "Nasi putih disajikan dengan Ayam geprek ditambah lalapan",
+            "harga": "18000",
+            "estimasi": "",
+            "gambar": "assets/ayam-geprek.jpeg"
+        },
+        {
+            "jenis": "minuman",
+            "nama": "Jus Mangga",
+            "deskripsi": "Minuman dari buah mangga segar disajikan dengan es batu",
+            "harga": "12000",
+            "estimasi": "",
+            "gambar": "assets/jus-mangga.jpg"
+        },
+        {
+            "jenis": "minuman",
+            "nama": "Es Campur",
+            "deskripsi": "Minuman digin dari serutan es batu dipadukan dengan berbagai macam buah",
+            "harga": "20000",
+            "estimasi": "",
+            "gambar": "assets/es-campur"
+        },
+        {
+            "jenis": "minuman",
+            "nama": "Es Teh",
+            "deskripsi": "Minuman Teh yang disajikan dengan es batu",
+            "harga": "15000",
+            "estimasi": "",
+            "gambar": "assets/es-teh.jpeg"
+        },
+        {
+            "jenis": "minuman",
+            "nama": "Jeruk Panas",
+            "deskripsi": "Minuman perasan jeruk peras yang disajikan panas",
+            "harga": "10000",
+            "estimasi": "",
+            "gambar": "assets/jeruk-panas.jpg"
+        },
+        {
+            "jenis": "dessert",
+            "nama": "Luti Gendang",
+            "deskripsi": "Kue basah dengan isian ikan yang telah dibumbui",
+            "harga": "3000",
+            "estimasi": "",
+            "gambar": "assets/luti-gendang.jpeg"
+        },
+        {
+            "jenis": "dessert",
+            "nama": "Roti Bakar",
+            "deskripsi": "Roti dipanggang disajikan dengan olesan selai",
+            "harga": "15000",
+            "estimasi": "",
+            "gambar": "assets/roti-bakar.jpeg"
+        },
+        {
+            "jenis": "dessert",
+            "nama": "Puding Mangga",
+            "deskripsi": "Puding lembut dengan perisa mangga dan irisan buah mangga",
+            "harga": "5000",
+            "estimasi": "",
+            "gambar": "assets/puding.jpg"
+        }
+    ]
+}
