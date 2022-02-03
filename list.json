@@ -14,7 +14,7 @@
             "deskripsi": "8 potong sotong yang digoreng",
             "harga": "20000",
             "estimasi": "",
-            "gambar": "assets/sotong_goreng.jpg"
+            "gambar": "sotong_goreng.jpg"
         },
         {
             "jenis": "makanan",
@@ -22,7 +22,7 @@
             "deskripsi": "Nasi putih disajikan dengan Ayam geprek ditambah lalapan",
             "harga": "18000",
             "estimasi": "",
-            "gambar": "assets/ayam-geprek.jpeg"
+            "gambar": "ayam-geprek.jpeg"
         },
         {
             "jenis": "minuman",
@@ -30,7 +30,7 @@
             "deskripsi": "Minuman dari buah mangga segar disajikan dengan es batu",
             "harga": "12000",
             "estimasi": "",
-            "gambar": "assets/jus-mangga.jpg"
+            "gambar": "jus-mangga.jpg"
         },
         {
             "jenis": "minuman",
@@ -38,7 +38,7 @@
             "deskripsi": "Minuman digin dari serutan es batu dipadukan dengan berbagai macam buah",
             "harga": "20000",
             "estimasi": "",
-            "gambar": "assets/es-campur"
+            "gambar": "es-campur"
         },
         {
             "jenis": "minuman",
@@ -46,7 +46,7 @@
             "deskripsi": "Minuman Teh yang disajikan dengan es batu",
             "harga": "15000",
             "estimasi": "",
-            "gambar": "assets/es-teh.jpeg"
+            "gambar": "es-teh.jpeg"
         },
         {
             "jenis": "minuman",
@@ -54,7 +54,7 @@
             "deskripsi": "Minuman perasan jeruk peras yang disajikan panas",
             "harga": "10000",
             "estimasi": "",
-            "gambar": "assets/jeruk-panas.jpg"
+            "gambar": "jeruk-panas.jpg"
         },
         {
             "jenis": "dessert",
@@ -62,7 +62,7 @@
             "deskripsi": "Kue basah dengan isian ikan yang telah dibumbui",
             "harga": "3000",
             "estimasi": "",
-            "gambar": "assets/luti-gendang.jpeg"
+            "gambar": "luti-gendang.jpeg"
         },
         {
             "jenis": "dessert",
@@ -70,7 +70,7 @@
             "deskripsi": "Roti dipanggang disajikan dengan olesan selai",
             "harga": "15000",
             "estimasi": "",
-            "gambar": "assets/roti-bakar.jpeg"
+            "gambar": "roti-bakar.jpeg"
         },
         {
             "jenis": "dessert",
@@ -78,7 +78,7 @@
             "deskripsi": "Puding lembut dengan perisa mangga dan irisan buah mangga",
             "harga": "5000",
             "estimasi": "",
-            "gambar": "assets/puding.jpg"
+            "gambar": "puding.jpg"
         }
     ]
 }
